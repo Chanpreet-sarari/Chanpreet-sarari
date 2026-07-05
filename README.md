@@ -1,67 +1,129 @@
- # Hi there 👋, I'm Chanpreet Singh
+<div align="center">
 
-## 🚀 Aspiring Software Engineer | Final Year ECE Student
+# Hi there 👋, I'm Chanpreet Singh
 
-🎓 Final Year B.Tech in Electronics & Communication Engineering  
-🏫 Sant Longowal Institute of Engineering & Technology (SLIET)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Final+Year+ECE+Student;C%2B%2B+%7C+DSA+%7C+Full+Stack+Developer;DevOps+Learner;Always+Learning+New+Things+%F0%9F%9A%80" />
 
-💻 Passionate about:
-- Data Structures & Algorithms (C++)
-- Full Stack Web Development
-- DevOps & Cloud
-- Problem Solving
+![](https://komarev.com/ghpvc/?username=Chanpreet-sarari&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+🎓 Final Year B.Tech in Electronics & Communication Engineering (SLIET)
 
----
+💻 Passionate about solving problems using **C++ & DSA**
 
-## 📈 GitHub Stats
+🌐 Learning **Full Stack Web Development**
 
-![](https://github-readme-stats.vercel.app/api?username=Chanpreet-sarari&show_icons=true&theme=tokyonight)
+☁️ Exploring **DevOps & Cloud**
+
+🎯 Goal: Become a Software Engineer at a Top Product-Based Company
 
 ---
 
-## 🔥 GitHub Streak
+# 🛠️ Tech Stack
 
-![](https://streak-stats.demolab.com?user=Chanpreet-sarari&theme=tokyonight)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,git,github,linux,vscode&theme=dark" />
 
-## 💻 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanpreet-sarari&layout=compact&theme=tokyonight)
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Stats
 
-![](https://github-profile-trophy.vercel.app/?username=Chanpreet-sarari&theme=tokyonight&row=1&column=6)
+<p align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chanpreet-sarari&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 📊 Contribution Graph
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanpreet-sarari&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Chanpreet-sarari&theme=tokyo-night)
-
----
-
-## 🌐 Connect with Me
-
-- 💼 LinkedIn: https://linkedin.com/in/chanpreet-singh-39a256287
-- 💻 LeetCode: https://leetcode.com/u/Chanpreet-Sarari/
-- 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/user/chanpreetsarari5422/
-- 📧 Email: chanpreetsarari5422@gmail.com
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Chanpreet-sarari&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Chanpreet-sarari&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chanpreet-sarari&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/chanpreet-singh-39a256287">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/Chanpreet-Sarari/">
+<img src="https://cdn.simpleicons.org/leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/chanpreetsarari5422/">
+<img src="https://cdn.simpleicons.org/geeksforgeeks"/>
+</a>
+
+<a href="mailto:chanpreetsarari5422@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Featured Repositories
+
+⭐ Striver-A2Z-DSA-Sheet
+
+⭐ LeetCode-Solutions
+
+⭐ Data-Structures-and-Algorithms
+
+⭐ Web-Development-Journey
+
+⭐ DevOps-by-Chanpreet
+
+---
+
+# 💡 Quote
+
+> "Consistency beats Talent."
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+⭐ Don't forget to star my repositories if you find them useful.
+
+</div>
