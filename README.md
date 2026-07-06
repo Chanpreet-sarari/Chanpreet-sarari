@@ -39,3 +39,337 @@
 </div>
 
 ---
+
+<!-- ====================== PART 2A-1.1 START ====================== -->
+
+
+
+<h2 align="center">🚀 About Me</h2>
+
+<table>
+<tr>
+
+<td width="62%" valign="top">
+
+## 👨‍💻 Who Am I?
+
+Hi, I'm **Chanpreet Singh**, a **Final Year B.Tech student in Electronics & Communication Engineering** at **Sant Longowal Institute of Engineering & Technology (SLIET), Punjab**.
+
+I am passionate about building scalable software, solving real-world problems, and continuously improving my skills through **C++**, **Data Structures & Algorithms**, **Full Stack Development**, and **DevOps**.
+
+I believe in **learning by building**, strengthening my problem-solving abilities through hands-on projects, and staying consistent while exploring modern technologies.
+
+My goal is to become a **Software Engineer** who develops reliable, efficient, and impactful software that creates real value.
+
+</td>
+
+<td width="38%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Focus-Software%20Engineering-2563EB?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Full--Time-22C55E?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Location-Punjab%2C%20India-0EA5E9?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Graduation-2027-7C3AED?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
+
+<!-- ======================= PART 2A-1.1 END ======================= -->
+
+<!-- ====================== PART 2A-1.2 START ====================== -->
+
+<br>
+
+## 🎓 Education
+
+🎓 **Bachelor of Technology (B.Tech)**  
+**Electronics & Communication Engineering**
+
+🏫 **Sant Longowal Institute of Engineering & Technology (SLIET)**
+
+📍 **Punjab, India**
+
+📅 **Final Year • Expected Graduation: 2027**
+
+<br>
+
+> 💡 *Committed to strengthening my problem-solving skills, building practical software solutions, and preparing for Software Engineering opportunities.*
+
+<!-- ======================= PART 2A-1.2 END ======================= -->
+
+<!-- ====================== PART 2A-1.3 START ====================== -->
+
+<br>
+
+## 💼 Professional Summary
+
+- 💻 Passionate about designing and developing clean, efficient, and scalable software solutions.
+- 🧠 Strong foundation in **C++** and **Data Structures & Algorithms** with a continuous focus on improving problem-solving skills.
+- 🚀 Actively building real-world projects to strengthen practical development experience.
+- 🌱 Continuously learning modern technologies in **Full Stack Development**, **Linux**, and **DevOps**.
+- 🤝 Committed to continuous learning, collaboration, and writing maintainable, high-quality code.
+
+<!-- ======================= PART 2A-1.3 END ======================= -->
+
+<!-- ====================== PART 2A-1.4 START ====================== -->
+
+<br>
+
+## 🎯 Career Objective
+
+To build reliable, scalable, and impactful software by applying strong problem-solving skills and modern development practices. I aspire to begin my career as a **Software Engineer** at a product-based company, where I can continuously learn, contribute to meaningful products, and grow alongside experienced engineers.
+
+<!-- ======================= PART 2A-1.4 END ======================= -->
+
+<!-- ====================== PART 2A-1.5 START ====================== -->
+
+</td>
+
+</tr>
+</table>
+
+<!-- ======================= PART 2A-1.5 END ======================= -->
+
+<!-- ====================== PART 2B-1 START ====================== -->
+
+## 🌱 Currently Learning
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📚 Learning Journey
+
+- 💻 **C++ Programming**
+- 🧠 **Data Structures & Algorithms**
+- 🌐 **Full Stack Web Development**
+- 🐧 **Linux**
+- ⚙️ **DevOps Fundamentals**
+- ☁️ **Cloud Computing (AWS - Learning)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Currently Building
+
+- 🌍 **Personal Portfolio Website**
+- 🛒 **Amazon Clone**
+- 🎵 **Spotify Clone**
+- 🎬 **Netflix Clone**
+- 📈 **Improving Problem Solving with LeetCode**
+- 🔥 **Building GitHub Portfolio**
+
+</td>
+
+</tr>
+</table>
+
+> 💡 **Learning every day by building real-world projects, solving coding challenges, and exploring modern software development technologies.**
+
+<!-- ======================= PART 2B-1 END ======================= -->
+
+<!-- ====================== PART 2B-2 START ====================== -->
+
+## 💼 Open To
+
+<div align="center">
+
+🟢 **Software Engineering Internships**
+
+🔵 **Full-Time Software Engineering Opportunities**
+
+🟣 **Open Source Collaboration**
+
+🟠 **Technical Networking & Collaboration**
+
+</div>
+
+> 🚀 **Always open to learning, collaborating, and contributing to impactful software projects.**
+
+<!-- ======================= PART 2B-2 END ======================= -->
+
+<!-- ====================== PART 2B-3 START ====================== -->
+
+## 🌍 Communication
+
+<div align="center">
+
+| 💬 | Language | Level |
+|:--:|-----------|-------|
+| 🇬🇧 | **English** | 🟦🟦🟦🟦⬜ Professional |
+| 🇮🇳 | **Hindi** | 🟩🟩🟩🟩🟩 Native |
+| 🇮🇳 | **Punjabi** | 🟩🟩🟩🟩🟩 Native |
+
+</div>
+
+<!-- ======================= PART 2B-3 END ======================= -->
+
+<!-- ====================== PART 2B-4 START ====================== -->
+
+## 🌟 Core Values
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🧠 Problem Solving
+
+Turning complex problems into simple, efficient solutions.
+
+</td>
+
+<td align="center" width="33%">
+
+### 📚 Continuous Learning
+
+Learning, adapting, and improving every single day.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀 Growth Mindset
+
+Welcoming challenges as opportunities to grow.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🤝 Teamwork
+
+Building great software through collaboration.
+
+</td>
+
+<td align="center" width="33%">
+
+### ✨ Clean Code
+
+Writing readable, maintainable, and scalable code.
+
+</td>
+
+<td align="center" width="33%">
+
+### 📈 Consistency
+
+Small daily improvements create long-term success.
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+> 💙 *"Great software is built through curiosity, consistency, collaboration, and continuous learning."*
+
+</div>
+
+<!-- ======================= PART 2B-4 END ======================= -->
+
+<!-- ====================== PART 2B-5 START ====================== -->
+
+## 🎯 Career Goal
+
+<div align="center">
+
+### 🚀 Vision
+
+> *To become a Software Engineer at a leading product-based company, building scalable, high-performance software that solves real-world problems and creates meaningful impact.*
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🎯 Short-Term Goal
+
+Master **C++**, **Data Structures & Algorithms**, **Full Stack Development**, **Linux**, and **DevOps** while building production-ready projects and strengthening problem-solving skills.
+
+</td>
+
+<td align="center" width="50%">
+
+### 🌟 Long-Term Vision
+
+Design scalable software, contribute to innovative products, mentor future developers, and grow into a well-rounded Software Engineer who creates technology with lasting impact.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### ✨ Personal Motto
+
+> **"Every project I build is another step toward becoming a better Software Engineer."**
+
+</div>
+
+<!-- ======================= PART 2B-5 END ======================= -->
+
+<!-- ====================== PART 2B-6 START ====================== -->
+
+## 💡 Developer Philosophy
+
+<div align="center">
+
+> ### *"I believe great software is built through curiosity, consistency, collaboration, and continuous learning."*
+
+<br>
+
+### 🚀 My Development Mindset
+
+```text
+💻 Learn with Curiosity
+🧠 Think with Logic
+⚡ Build with Purpose
+🤝 Collaborate with Respect
+📈 Improve Every Day
+```
+
+<br>
+
+<img src="https://img.shields.io/badge/Lifelong-Learner-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-New%20Challenges-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Build-Impactful%20Software-7C3AED?style=for-the-badge"/>
+
+<br><br>
+
+### ⭐ *Learn • Build • Grow • Repeat*
+
+</div>
+
+<!-- ======================= PART 2B-6 END ======================= -->
