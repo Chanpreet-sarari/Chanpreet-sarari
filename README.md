@@ -1149,3 +1149,430 @@ Design scalable software, contribute to innovative products, mentor future devel
 </div>
 
 <!-- ======================= PART 5.6 END ======================= -->
+
+<!-- ====================== PART 6.1 START ====================== -->
+
+# 📬 Connect With Me
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Something Amazing Together
+
+*I'm always open to discussing software engineering, web development, DevOps, open-source contributions, internships, and exciting opportunities to learn and grow.*
+
+<br>
+
+<img src="https://img.shields.io/badge/Open%20To-Software%20Engineering%20Internships-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/>
+
+</div>
+
+<!-- ======================= PART 6.1 END ======================= -->
+
+<!-- ====================== PART 6.2 START ====================== -->
+
+<div align="center">
+
+# 🌐 Let's Connect
+
+### 🤝 I'm always happy to connect, collaborate, and build impactful software together.
+
+<br>
+
+<a href="mailto:chanpreetsarari5422@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chanpreet-singh-39a256287" target="_blank">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Profile-0077B5?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Chanpreet-sarari" target="_blank">
+<img src="https://img.shields.io/badge/🐙_GitHub-View_My_Work-181717?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/Chanpreet-Sarari/" target="_blank">
+<img src="https://img.shields.io/badge/🧩_LeetCode-Problem_Solving-FFA116?style=for-the-badge"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/chanpreetsarari5422" target="_blank">
+<img src="https://img.shields.io/badge/📚_GeeksforGeeks-Coding_Profile-2F8D46?style=for-the-badge"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 💬 Open for Opportunities
+
+🟢 **Software Engineering Internships**
+
+🔵 **Open Source Contributions**
+
+🟣 **Technical Discussions**
+
+🟠 **Project Collaborations**
+
+<br>
+
+> *"Great opportunities begin with great conversations. Feel free to connect!"* 🚀
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Response_Time-Within_24_Hours-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Status-Open_to_Work-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Let's-Build_Together-7C3AED?style=for-the-badge"/>
+
+</div>
+
+<!-- ======================= PART 6.2 END ======================= -->
+
+<!-- ====================== PART 6.3 START ====================== -->
+
+# 🌍 My Developer Presence
+
+<div align="center">
+
+### 🚀 Where You Can Find Me
+
+| 🌐 Platform | 🎯 Purpose |
+|:-----------:|:----------|
+| 🐙 **GitHub** | Open Source Projects, Portfolio & Development Journey |
+| 💼 **LinkedIn** | Professional Networking & Career Updates |
+| 🧩 **LeetCode** | Data Structures & Algorithms Practice |
+| 📚 **GeeksforGeeks** | Problem Solving & Coding Practice |
+| 💻 **Coding Ninjas** | Learning & Skill Development |
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💡 My Online Mission
+
+💻 Building Real-World Projects &nbsp;&nbsp;•&nbsp;&nbsp;
+🧠 Solving DSA Problems
+
+<br><br>
+
+🌐 Learning Full Stack Development &nbsp;&nbsp;•&nbsp;&nbsp;
+☁️ Exploring DevOps & Cloud
+
+</div>
+
+<br>
+
+<div align="center">
+
+> ⭐ *"My online profiles reflect my continuous learning journey, hands-on development, and commitment to becoming a better Software Engineer."*
+
+</div>
+
+<!-- ======================= PART 6.3 END ======================= -->
+
+<!-- ====================== PART 6.4 START ====================== -->
+
+# 🤝 Collaboration & Opportunities
+
+<div align="center">
+
+### 💼 I'm Open To
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 💻 Software Engineering
+
+• Internship Opportunities
+
+• Full-Time Roles
+
+• Technical Interviews
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀 Development
+
+• Full Stack Projects
+
+• Open Source Contributions
+
+• Web Development
+
+</td>
+
+<td align="center" width="33%">
+
+### ☁️ Learning
+
+• DevOps & Cloud
+
+• DSA Discussions
+
+• Tech Communities
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🌟 Let's Build Something Meaningful Together
+
+I'm always excited to collaborate on innovative ideas, contribute to open-source projects, and connect with developers who are passionate about technology, learning, and solving real-world problems.
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Open%20for-Collaboration-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20for-Internships-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20for-Innovation-7C3AED?style=for-the-badge"/>
+
+</div>
+
+<!-- ======================= PART 6.4 END ======================= -->
+
+<!-- ====================== PART 6.5 START ====================== -->
+
+# ⭐ Thank You for Visiting
+
+<div align="center">
+
+### 💙 Thank You for Visiting My GitHub Profile!
+
+I truly appreciate your time exploring my work, projects, and learning journey.
+
+I'm continuously improving my skills in **Software Engineering**, **Data Structures & Algorithms**, **Full Stack Development**, and **DevOps**, while building real-world projects and preparing for exciting opportunities.
+
+<br>
+
+### 🚀 Let's Connect, Learn, and Grow Together!
+
+<img src="https://img.shields.io/badge/Always-Learning-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Building-Real--World%20Projects-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-New%20Opportunities-7C3AED?style=for-the-badge"/>
+
+<br><br>
+
+> **"Every great software engineer started as a beginner. I believe in continuous learning, consistent practice, and building meaningful solutions that create real impact."**
+
+<br>
+
+### ⭐ If you found my profile interesting, don't forget to ⭐ my repositories and connect with me!
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E3A8A,50:2563EB,100:06B6D4"/>
+
+<!-- ======================= PART 6.5 END ======================= -->
+
+<!-- ====================== PART 7.1 START ====================== -->
+
+# ❤️ Support My Work
+
+<div align="center">
+
+### ⭐ If you like my work, consider supporting me by
+
+⭐ Starring my repositories
+
+🍴 Forking projects that inspire you
+
+🤝 Contributing to open-source collaborations
+
+💬 Sharing feedback and suggestions
+
+🌐 Connecting with me across my coding platforms
+
+<br>
+
+<img src="https://img.shields.io/badge/⭐-Star%20Repositories-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🤝-Collaborate-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🚀-Grow%20Together-7C3AED?style=for-the-badge"/>
+
+</div>
+
+<!-- ======================= PART 7.1 END ======================= -->
+<!-- ====================== PART 7.2 START ====================== -->
+
+# 👀 Profile Insights
+
+<div align="center">
+
+### 📈 GitHub Community
+
+<img src="https://komarev.com/ghpvc/?username=Chanpreet-sarari&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Chanpreet-sarari?label=FOLLOWERS&logo=github&style=for-the-badge&color=22C55E"/>
+
+<img src="https://img.shields.io/github/stars/Chanpreet-sarari?affiliations=OWNER&label=TOTAL%20STARS&logo=github&style=for-the-badge&color=7C3AED"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> ⭐ **Thank you for visiting my profile and supporting my learning journey. Every visit, connection, and contribution motivates me to keep building and improving.**
+
+</div>
+
+<!-- ======================= PART 7.2 END ======================= -->
+<!-- ====================== PART 7.3 START ====================== -->
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+### 🚀 My GitHub Contribution Journey
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Chanpreet-sarari/Chanpreet-sarari/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Chanpreet-sarari/Chanpreet-sarari/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/Chanpreet-sarari/Chanpreet-sarari/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> 🐍 **Every contribution reflects my consistency, curiosity, and continuous growth as a developer.**
+
+</div>
+
+<!-- ======================= PART 7.3 END ======================= -->
+
+<!-- ====================== PART 7.4 START ====================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1E3A8A,50:2563EB,100:06B6D4"/>
+
+# 💙 Thanks for Visiting My Profile
+
+### ⭐ Code • Learn • Build • Grow • Repeat ⭐
+
+<br>
+
+*"Every expert was once a beginner. Every great developer started with a single line of code."*
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Built%20By-Chanpreet%20Singh-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Software%20Engineer-Aspiring-22C55E?style=for-the-badge"/>
+
+<br><br>
+
+### 🚀 See You Again!
+
+</div>
+
+<!-- ======================= PART 7.4 END ======================= -->
+
+<!-- ====================== PART 7.5 START ====================== -->
+
+# ✅ README Status
+
+<div align="center">
+
+## 🎯 Development Progress
+
+| Section | Status |
+|:--------|:------:|
+| 🎨 Hero Section | ✅ Complete |
+| 👨‍💻 About Me | ✅ Complete |
+| 🛠️ Tech Stack | ✅ Complete |
+| 🚀 Featured Projects | ✅ Complete |
+| 🏆 Achievements & Certifications | ✅ Complete |
+| 📬 Contact & Connect | ✅ Complete |
+| 💙 Final Footer | ✅ Complete |
+
+</div>
+
+<br>
+
+<div align="center">
+
+# 🚀 What's Next?
+
+⭐ Continue building real-world projects
+
+⭐ Strengthen Data Structures & Algorithms
+
+⭐ Master Full Stack Development
+
+⭐ Learn DevOps & Cloud Technologies
+
+⭐ Contribute to Open Source
+
+⭐ Secure a Software Engineering Internship
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 💡 Final Note
+
+*"This profile is continuously evolving as I learn, build, and grow. Every project, contribution, and achievement reflects my commitment to becoming a better Software Engineer."*
+
+</div>
+
+<br>
+
+<div align="center">
+
+# ❤️ Thank You
+
+If you enjoyed exploring my GitHub profile, feel free to ⭐ my repositories and connect with me.
+
+**Happy Coding! 🚀**
+
+</div>
+
+<!-- ======================= PART 7.5 END ======================= -->
