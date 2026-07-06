@@ -547,3 +547,347 @@ Design scalable software, contribute to innovative products, mentor future devel
 </div>
 
 <!-- ======================= PART 3.7 END ======================= -->
+<!-- ====================== PART 4.1 START ====================== -->
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### 💼 Projects That Reflect My Learning Journey
+
+*Every project represents a step forward in my journey as a Software Engineer. These projects helped me strengthen my problem-solving skills, improve my frontend development knowledge, and gain practical experience by building real-world applications.*
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Projects-4-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Status-Active%20Development-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-Real--World%20Learning-7C3AED?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+> 💡 **Each project is built with the goal of improving my development skills and preparing for real-world software engineering opportunities.**
+
+<!-- ======================= PART 4.1 END ======================= -->
+
+<!-- ====================== PART 4.2 START ====================== -->
+
+## 🌟 Featured Project 01
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+🚧 **Status:** Work in Progress
+
+> A modern, responsive personal portfolio website designed to showcase my skills, projects, and development journey. Built with a clean UI and focused on delivering a professional first impression.
+
+### 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### ✨ Planned Features
+
+- 👤 Professional Developer Profile
+- 📂 Featured Projects
+- 🛠️ Skills Showcase
+- 📱 Fully Responsive Design
+- 📬 Contact Section
+
+### 📌 Progress
+
+🟡 Currently Under Development
+
+### 💻 Source Code
+
+🚧 Coming Soon
+
+### 🌐 Live Demo
+
+🚧 Coming Soon
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 Amazon Clone
+
+✅ **Status:** Completed
+
+> A responsive Amazon homepage clone created to strengthen frontend development fundamentals and practice modern web layout techniques using HTML and CSS.
+
+### 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### ✨ Key Features
+
+- 🏠 Responsive Homepage
+- 🧭 Navigation Bar
+- 🛍️ Product Sections
+- 🎯 Hero Banner
+- 📄 Footer Layout
+
+### 📌 Progress
+
+🟢 Completed
+
+### 💻 Source Code
+
+🚧 Coming Soon
+
+### 🌐 Live Demo
+
+🚧 Coming Soon
+
+</td>
+
+</tr>
+</table>
+
+<!-- ======================= PART 4.2 END ======================= -->
+
+<!-- ====================== PART 4.3 START ====================== -->
+
+## 🌟 Featured Project 02
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎵 Spotify Clone
+
+✅ **Status:** Completed
+
+> A modern Spotify-inspired music streaming interface built to strengthen JavaScript fundamentals while creating a responsive and interactive user experience.
+
+### 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### ✨ Key Features
+
+- 🎧 Music Player UI
+- 📂 Playlist Section
+- ▶️ Play / Pause Controls
+- 📱 Responsive Design
+- 🎨 Modern Interface
+
+### 📌 Progress
+
+🟢 Completed
+
+### 💻 Source Code
+
+🚧 Coming Soon
+
+### 🌐 Live Demo
+
+🚧 Coming Soon
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎬 Netflix Clone
+
+✅ **Status:** Completed
+
+> A responsive Netflix-inspired landing page developed to practice modern frontend design, layouts, and interactive JavaScript components.
+
+### 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### ✨ Key Features
+
+- 🎬 Netflix Landing Page
+- 🎨 Responsive UI
+- 🖼️ Hero Banner
+- 📂 Content Sections
+- ⚡ Interactive Components
+
+### 📌 Progress
+
+🟢 Completed
+
+### 💻 Source Code
+
+🚧 Coming Soon
+
+### 🌐 Live Demo
+
+🚧 Coming Soon
+
+</td>
+
+</tr>
+</table>
+
+<!-- ======================= PART 4.3 END ======================= -->
+
+<!-- ====================== PART 4.4 START ====================== -->
+
+# 📈 Project Highlights
+
+<div align="center">
+
+| 📊 Metric | 🚀 Achievement |
+|:----------|:---------------|
+| 📂 Total Projects | **4 Featured Projects** |
+| 💻 Primary Tech Stack | **HTML5 • CSS3 • JavaScript** |
+| 🌐 Responsive Projects | **100% Mobile-Friendly** |
+| 🛠️ Current Focus | **Frontend Development & Portfolio Building** |
+| 🚀 Next Milestone | **Full Stack Development & DevOps** |
+
+</div>
+
+<br>
+
+## 🏆 Skills Demonstrated
+
+<div align="center">
+
+🧩 **Responsive Web Design** &nbsp;&nbsp;•&nbsp;&nbsp;
+🎨 **Modern UI Development** &nbsp;&nbsp;•&nbsp;&nbsp;
+⚡ **JavaScript Fundamentals**
+
+<br><br>
+
+📱 **Cross-Device Compatibility** &nbsp;&nbsp;•&nbsp;&nbsp;
+🧠 **Problem Solving** &nbsp;&nbsp;•&nbsp;&nbsp;
+💻 **Clean & Structured Code**
+
+</div>
+
+<br>
+
+> 💡 **Every project has strengthened my frontend development skills and prepared me for building larger full-stack applications.**
+
+<!-- ======================= PART 4.4 END ======================= -->
+
+<!-- ====================== PART 4.5 START ====================== -->
+
+# 🚀 Future Roadmap
+
+<div align="center">
+
+### 🎯 What I'm Building Next
+
+| 🚀 Upcoming Projects | 🌟 Career Goals |
+|:--------------------:|:---------------:|
+| 🌦️ Weather App | 💼 Secure a Software Engineering Internship |
+| 💬 Real-Time Chat Application | 🌐 Become a Full Stack Developer |
+| 🛒 Full Stack E-Commerce Platform | ☁️ Master DevOps & Cloud Technologies |
+| 📋 Task Management System | 🤝 Contribute to Open Source Projects |
+| 🤖 AI Powered Web Application | 📈 Continuously Improve Problem-Solving Skills |
+| ⚙️ DevOps CI/CD Pipeline Project | 🚀 Build Scalable Real-World Applications |
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💡 My Mission
+
+> *"I believe every project is an opportunity to learn something new, solve meaningful problems, and become a better Software Engineer."*
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Learning-Never%20Stops-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Building-Real--World%20Projects-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Goal-Software%20Engineer-7C3AED?style=for-the-badge"/>
+
+</div>
+
+<!-- ======================= PART 4.5 END ======================= -->
+
+<!-- ====================== PART 4.6 START ====================== -->
+
+# 🏆 Key Learnings
+
+<div align="center">
+
+### 💡 Every project has helped me grow as a developer by strengthening both my technical and problem-solving skills.
+
+</div>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 Technical Skills
+
+- 🌐 Responsive Web Design
+- 🎨 Modern UI Development
+- ⚡ JavaScript Fundamentals
+- 🧩 DOM Manipulation
+- 📱 Cross-Device Compatibility
+- 🏗️ Clean Project Structure
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Professional Growth
+
+- 🧠 Logical Problem Solving
+- 📚 Continuous Learning
+- 🤝 Self-Driven Development
+- 💻 Writing Clean & Maintainable Code
+- 🎯 Building Real-World Projects
+- 📈 Improving Every Day
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+> ⭐ **"Every project taught me something new, and every challenge made me a better developer."**
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Learning%20by-Building-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Clean-Code-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem-Solving-7C3AED?style=for-the-badge"/>
+
+</div>
+
+<!-- ======================= PART 4.6 END ======================= -->
