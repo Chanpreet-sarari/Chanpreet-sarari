@@ -1,129 +1,41 @@
 <div align="center">
 
-# Hi there 👋, I'm Chanpreet Singh
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:1E3A8A,50:2563EB,100:06B6D4&text=CHANPREET%20SINGH&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Software%20Engineer%20•%20C%2B%2B%20Developer%20•%20Full%20Stack%20Developer%20•%20DevOps&descAlignY=64&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Engineer;Final+Year+ECE+Student;C%2B%2B+%7C+DSA+%7C+Full+Stack+Developer;DevOps+Learner;Always+Learning+New+Things+%F0%9F%9A%80" />
+# 👋 Hi, I'm Chanpreet Singh
 
-![](https://komarev.com/ghpvc/?username=Chanpreet-sarari&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3200&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;C%2B%2B+Developer;Data+Structures+%26+Algorithms;Full+Stack+Developer;Learning+DevOps+%26+Cloud;Building+Real-World+Projects+🚀"/>
 
-</div>
+<br><br>
 
----
+<img src="https://komarev.com/ghpvc/?username=Chanpreet-sarari&label=PROFILE+VIEWS&style=for-the-badge&color=0E75B6"/>
 
-# 🚀 About Me
+<img src="https://img.shields.io/github/followers/Chanpreet-sarari?label=FOLLOWERS&style=for-the-badge&logo=github&color=0E75B6"/>
 
-🎓 Final Year B.Tech in Electronics & Communication Engineering (SLIET)
+<img src="https://img.shields.io/badge/Open%20To-Internships-22C55E?style=for-the-badge"/>
 
-💻 Passionate about solving problems using **C++ & DSA**
+<br><br>
 
-🌐 Learning **Full Stack Web Development**
+## 💙 C++ • DSA • Full Stack • DevOps 💙
 
-☁️ Exploring **DevOps & Cloud**
-
-🎯 Goal: Become a Software Engineer at a Top Product-Based Company
-
----
-
-# 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,git,github,linux,vscode&theme=dark" />
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chanpreet-sarari&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanpreet-sarari&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Chanpreet-sarari&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Chanpreet-sarari&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chanpreet-sarari&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
+<br>
 
 <a href="https://www.linkedin.com/in/chanpreet-singh-39a256287">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Chanpreet-sarari">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/Chanpreet-Sarari/">
-<img src="https://cdn.simpleicons.org/leetcode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/chanpreetsarari5422/">
-<img src="https://cdn.simpleicons.org/geeksforgeeks"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:chanpreetsarari5422@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-# 💻 Featured Repositories
-
-⭐ Striver-A2Z-DSA-Sheet
-
-⭐ LeetCode-Solutions
-
-⭐ Data-Structures-and-Algorithms
-
-⭐ Web-Development-Journey
-
-⭐ DevOps-by-Chanpreet
-
----
-
-# 💡 Quote
-
-> "Consistency beats Talent."
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile ❤️
-
-⭐ Don't forget to star my repositories if you find them useful.
-
 </div>
+
+---
