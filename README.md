@@ -891,3 +891,261 @@ Design scalable software, contribute to innovative products, mentor future devel
 </div>
 
 <!-- ======================= PART 4.6 END ======================= -->
+
+<!-- ====================== PART 5.1 START ====================== -->
+
+# 🌐 Coding Profiles
+
+<div align="center">
+
+### 💻 Connect with Me Across Coding Platforms
+
+<a href="https://github.com/Chanpreet-sarari" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chanpreet-singh-39a256287" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Chanpreet-Sarari/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.codingninjas.com/" target="_blank">
+<img src="https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> 💡 *I actively improve my problem-solving skills, strengthen my development knowledge, and continuously learn through coding platforms and hands-on practice.*
+
+</div>
+
+<!-- ======================= PART 5.1 END ======================= -->
+
+<!-- ====================== PART 5.2 START ====================== -->
+
+# 🏆 Achievements
+
+<div align="center">
+
+| 🏅 Achievement | 📌 Details |
+|:--------------|:-----------|
+| 🥇 District Level Science Fair | **1st Prize Winner** • ₹10,000 Cash Prize |
+| 💚 LeetCode Consistency | Earned **50 Days Badge 2025** |
+| 💻 DSA Journey | Successfully completed **PW Skills Decode C++ with DSA** |
+| 🏭 Industrial Internship | Completed Internship at **LG Electronics India Pvt. Ltd.** |
+| ☁️ DevOps Learning | Completed **AWS DevOps & Agentic AI Masterclass** |
+| 🛠 Git & GitHub | Successfully completed **Git & GitHub for DevOps Workshop** |
+
+</div>
+
+<br>
+
+<div align="center">
+
+> 🌟 *Every achievement reflects my commitment to continuous learning, problem solving, and becoming a better Software Engineer.*
+
+</div>
+
+<!-- ======================= PART 5.2 END ======================= -->
+<!-- ====================== PART 5.3 START ====================== -->
+
+# 📜 Certifications
+
+<div align="center">
+
+| 🏅 Certification | 🏢 Organization | 📅 Status |
+|:-----------------|:---------------|:---------:|
+| 💻 Decode C++ with DSA | Physics Wallah (PW Skills) | ✅ Completed |
+| 🏭 Industrial Internship | LG Electronics India Pvt. Ltd. | ✅ Completed |
+| ☁️ DevOps & AWS Agentic AI Masterclass | Train With Shubham | ✅ Completed |
+| 🛠️ Git & GitHub for DevOps Workshop | Train With Shubham | ✅ Completed |
+| 🌐 Web Development | Self Learning & Hands-on Projects | 🚧 In Progress |
+
+</div>
+
+<br>
+
+## 🎖️ Certification Highlights
+
+<div align="center">
+
+🧠 **Data Structures & Algorithms** &nbsp;&nbsp;•&nbsp;&nbsp;
+🏭 **Industrial Training** &nbsp;&nbsp;•&nbsp;&nbsp;
+☁️ **DevOps & Cloud**
+
+<br><br>
+
+🛠️ **Git & GitHub** &nbsp;&nbsp;•&nbsp;&nbsp;
+🌐 **Web Development**
+
+</div>
+
+<br>
+
+> 💡 *I continuously invest in learning through industry training, technical courses, workshops, and hands-on project development.*
+
+<!-- ======================= PART 5.3 END ======================= -->
+<!-- ====================== PART 5.4 START ====================== -->
+
+# 📊 Coding Statistics
+
+<div align="center">
+
+### 💻 My Coding Journey
+
+| 🎯 Platform | 🚀 Focus | 📈 Status |
+|:-----------|:---------|:---------:|
+| 💚 LeetCode | Data Structures & Algorithms | 🔥 Active |
+| 🟢 GeeksforGeeks | Problem Solving | 🔥 Active |
+| 🐙 GitHub | Projects & Open Source | 🚀 Growing |
+| 💼 LinkedIn | Professional Networking | ✅ Active |
+| 🔷 Coding Ninjas | Learning & Practice | 📚 Active |
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📈 Current Progress
+
+🧠 **Practicing DSA Daily**
+
+💻 **Building Real-World Projects**
+
+🌐 **Learning Full Stack Development**
+
+☁️ **Exploring DevOps & Cloud Computing**
+
+🚀 **Preparing for Software Engineering Opportunities**
+
+</div>
+
+<br>
+
+<div align="center">
+
+> 💙 *Consistency beats intensity. Small improvements every day create long-term success.*
+
+</div>
+
+<!-- ======================= PART 5.4 END ======================= -->
+
+<!-- ====================== PART 5.5 START ====================== -->
+
+# 🚀 Current Focus
+
+<div align="center">
+
+### 🎯 What I'm Working On
+
+| 💻 Focus Area | 📌 Current Status |
+|:-------------|:-----------------:|
+| 🧠 Data Structures & Algorithms | 🔥 Daily Practice |
+| 🌐 Full Stack Web Development | 🚧 In Progress |
+| ☁️ DevOps & Cloud Computing | 📚 Learning |
+| 🛠️ Building Real-World Projects | 🚀 Ongoing |
+| 🐧 Linux & Git Workflow | ⚡ Improving |
+| 💼 Software Engineering Preparation | 🎯 Active |
+
+</div>
+
+<br>
+
+## 🌱 Learning Philosophy
+
+<div align="center">
+
+💡 Learn by Building  
+🧩 Solve Real Problems  
+📖 Never Stop Learning  
+🤝 Share Knowledge  
+🚀 Improve Every Day  
+
+</div>
+
+<br>
+
+<div align="center">
+
+> ⭐ *"Success isn't built in a day—it's built through consistent learning and continuous improvement."*
+
+</div>
+
+<!-- ======================= PART 5.5 END ======================= -->
+<!-- ====================== PART 5.6 START ====================== -->
+
+# 🌟 Professional Highlights
+
+<div align="center">
+
+## 💼 Developer Profile Snapshot
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 Strengths
+
+- 💻 Strong Foundation in **C++**
+- 🧠 Passionate about **Data Structures & Algorithms**
+- 🌐 Building Responsive Web Applications
+- 🛠️ Hands-on Learning through Real Projects
+- ☁️ Exploring DevOps & Cloud Technologies
+- 📚 Continuous Self-Learning Mindset
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 Career Vision
+
+- 💼 Software Engineering Internship
+- 🌟 Product-Based Company Opportunities
+- 🌐 Full Stack Development
+- ☁️ DevOps & Cloud Engineering
+- 🤝 Open Source Contributions
+- 📈 Lifelong Technical Growth
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+## 💙 Personal Mission
+
+> *"I believe that consistency, curiosity, and continuous learning are the foundation of becoming a great Software Engineer. Every line of code I write is an investment in my future."*
+
+<br>
+
+<img src="https://img.shields.io/badge/Always-Learning-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Building-Real--World%20Projects-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Future-Software%20Engineer-7C3AED?style=for-the-badge"/>
+
+<br><br>
+
+### ⭐ *Code • Learn • Build • Grow • Repeat*
+
+</div>
+
+<!-- ======================= PART 5.6 END ======================= -->
