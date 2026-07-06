@@ -373,3 +373,177 @@ Design scalable software, contribute to innovative products, mentor future devel
 </div>
 
 <!-- ======================= PART 2B-6 END ======================= -->
+
+<!-- ====================== PART 3.1 START ====================== -->
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br><br>
+
+### 🌐 Frontend Development
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+</div>
+
+<!-- ======================= PART 3.1 END ======================= -->
+
+<!-- ====================== PART 3.2 START ====================== -->
+
+<div align="center">
+
+### 🧩 Backend & Database *(Currently Learning)*
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br><br>
+
+> 🚀 **Currently learning backend development by building real-world projects and strengthening full-stack development skills.**
+
+</div>
+
+<!-- ======================= PART 3.2 END ======================= -->
+
+<!-- ====================== PART 3.3 START ====================== -->
+
+<div align="center">
+
+### 🛠️ Tools & Platforms
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<br><br>
+
+> ⚙️ **Using modern development tools to write clean code, collaborate efficiently, and continuously improve my workflow.**
+
+</div>
+
+<!-- ======================= PART 3.3 END ======================= -->
+<!-- ====================== PART 3.4 START ====================== -->
+
+<div align="center">
+
+## ⚡ Development Environment
+
+<img src="https://img.shields.io/badge/macOS-Sequoia-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Terminal-iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Browser-Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI-ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br><br>
+
+> 🚀 **My development environment is focused on productivity, clean workflows, and continuous learning.**
+
+</div>
+
+<!-- ======================= PART 3.4 END ======================= -->
+<!-- ====================== PART 3.5 START ====================== -->
+
+<div align="center">
+
+## 📊 Development Setup
+
+<img src="https://img.shields.io/badge/OS-macOS%20Tahoe-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Browser-Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Terminal-zsh-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI-ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br><br>
+
+> ⚡ **Optimized development environment focused on productivity, clean workflows, and continuous learning.**
+
+</div>
+
+<!-- ======================= PART 3.5 END ======================= -->
+
+<!-- ====================== PART 3.6 START ====================== -->
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chanpreet-sarari&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanpreet-sarari&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> 💙 *Building consistently • Learning continuously • Growing every day*
+
+</div>
+
+<!-- ======================= PART 3.6 END ======================= -->
+
+<!-- ====================== PART 3.7 START ====================== -->
+
+## 🚀 Engineering Principles
+
+<div align="center">
+
+| 💡 Principle | 🎯 My Approach |
+|:------------:|:---------------|
+| 📚 Learn Continuously | Stay curious and keep improving every day. |
+| 🧠 Solve Problems | Build practical solutions with logical thinking. |
+| 💻 Write Clean Code | Focus on readability, maintainability, and quality. |
+| 🤝 Collaborate | Learn, share knowledge, and grow with others. |
+| 📈 Improve Consistently | Every project is an opportunity to become a better engineer. |
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💙 Developer Motto
+
+> **"Code with purpose. Learn with curiosity. Grow with consistency."**
+
+<br>
+
+<img src="https://img.shields.io/badge/Lifelong-Learner-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Learning-22C55E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Building-Real--World%20Projects-7C3AED?style=for-the-badge"/>
+
+</div>
+
+<!-- ======================= PART 3.7 END ======================= -->
